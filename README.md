@@ -9,6 +9,11 @@
 
 </details>
 
+## Table of Contents
+- [Introduction](#Introduction)
+- [EDA](#EDA)
+- [Modeling](#Mpdeling)
+
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/frequency.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/user_stats.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/movie_stats.png)
