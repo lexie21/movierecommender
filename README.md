@@ -10,9 +10,9 @@
 </details>
 
 ## Table of Contents
-- [Introduction](##Introduction)
-- [EDA](##Exploratory-Data-Analysis)
-- [Modeling](##Modeling)
+- [Introduction](#Introduction)
+- [EDA](#Exploratory-Data-Analysis)
+- [Modeling](#Modeling)
 
 ## Introduction
 
