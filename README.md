@@ -11,8 +11,8 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [EDA](#EDA)
-- [Modeling](#Mpdeling)
+- [EDA](#ExploratoryDataAnalysis)
+- [Modeling](#Modeling)
 
 # Introduction
 
