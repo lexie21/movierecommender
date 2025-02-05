@@ -36,19 +36,32 @@
 
 
 ## Exploratory Data Analysis
-![Alt Text](https://github.com/lexie21/movierecommender/blob/main/frequency.png)
-![Alt Text](https://github.com/lexie21/movierecommender/blob/main/user_stats.png)
-![Alt Text](https://github.com/lexie21/movierecommender/blob/main/movie_stats.png)
-![Alt Text](https://github.com/lexie21/movierecommender/blob/main/ratings.png)
-
-
 
 <h3>Metrics and Dimensions</h3>
 
+- **Rating count:** measures how popular a movie is and how engaged/active the viewers on our platform are.
+- **Average rating:** indicates how positive our movie selection is perceived. 
 
 <h3>Summary of Insights</h3>
 
-<h3>Recommendations & Next Steps</h3>
+<h4>Metrics through Time</h4>
+
+![Alt Text](https://github.com/lexie21/movierecommender/blob/main/ratings.png)
+
+<h4>Rating Count by User and Movie:</h4>
+
+![Alt Text](https://github.com/lexie21/movierecommender/blob/main/frequency.png)
+
+<h4>User Statistics:</h4>
+
+![Alt Text](https://github.com/lexie21/movierecommender/blob/main/user_stats.png)
+
+<h4>Movie Statistics:</h4>
+
+![Alt Text](https://github.com/lexie21/movierecommender/blob/main/movie_stats.png)
+
+
+
 
 ## Modeling
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/MF.png)
