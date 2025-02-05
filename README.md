@@ -10,13 +10,13 @@
 </details>
 
 ## Table of Contents
-- [Introduction](#Introduction)
-- [EDA](#Exploratory-Data-Analysis)
-- [Modeling](#Modeling)
+- [Introduction](##Introduction)
+- [EDA](##Exploratory-Data-Analysis)
+- [Modeling](##Modeling)
 
-# Introduction
+## Introduction
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/frequency.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/user_stats.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/movie_stats.png)
@@ -31,6 +31,6 @@
 
 <h3>Recommendations & Next Steps</h3>
 
-# Modeling
+## Modeling
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/MF.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/metrics.png)
