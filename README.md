@@ -33,16 +33,14 @@ The findings from this analysis will serve as a foundation for the next stage—
 EDA
   
 </summary>
-
-- Explored rating distributions and trends across different viewer demographics to understand audience preferences.
+Explored rating distributions and trends across different viewer demographics to understand audience preferences.
 </details>
 <details>
 <summary>
 Recommendation Engine
   
 </summary>
-  
-- Used popularity-based recommendations as a starting baseline, followed by user-based approach, matrix factorization via SVD and finally neural collaborative filtering for more personalized recommendations
+Used popularity-based recommendations as a starting baseline, followed by user-based approach, matrix factorization via SVD and finally neural collaborative filtering for more personalized recommendations
 </details>
 
 ## Exploratory Data Analysis
