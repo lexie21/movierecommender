@@ -14,6 +14,9 @@
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/movie_stats.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/ratings.png)
 
+![Alt Text](https://github.com/lexie21/movierecommender/blob/main/MF.png)
+![Alt Text](https://github.com/lexie21/movierecommender/blob/main/metrics.png)
+
 
 
 <h3>Metrics and Dimensions</h3>
