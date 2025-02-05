@@ -11,7 +11,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [EDA](#ExploratoryDataAnalysis)
+- [EDA](#Exploratory-Data-Analysis)
 - [Modeling](#Modeling)
 
 # Introduction
