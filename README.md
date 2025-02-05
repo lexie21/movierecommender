@@ -14,11 +14,15 @@
 - [EDA](#EDA)
 - [Modeling](#Mpdeling)
 
+# Introduction
+
+# Exploratory Data Analysis
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/frequency.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/user_stats.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/movie_stats.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/ratings.png)
 
+# Modeling
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/MF.png)
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/metrics.png)
 
