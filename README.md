@@ -16,7 +16,7 @@
 
 ## Introduction
 
-- <b>What this project is about?</b>
+<b>What this project is about?</b>
 <details>
 <summary>
 Project Scope
@@ -27,7 +27,7 @@ Project Scope
 The findings from this analysis will serve as a foundation for the next stage—developing a personalized movie recommendation system. By understanding rating tendencies across different viewer segments, we can refine recommendation algorithms to provide more relevant and engaging movie suggestions.
 </details>
 
-- <b>What I did?</b>
+<b>What I did?</b>
 <details>
 <summary>
 EDA
