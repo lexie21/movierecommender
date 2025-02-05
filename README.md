@@ -44,7 +44,7 @@
 
 <h3>Summary of Insights</h3>
 
-<h4>Metrics through Time</h4>
+<h4>Metrics through Time:</h4>
 
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/ratings.png)
 
@@ -64,5 +64,11 @@
 
 
 ## Modeling
+<h4>Latent Factors Visualization:</h4>
+
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/MF.png)
+
+<h4>Metrics by Model:</h4>
+All models do not perform well due to the small dataset (100k ratings)
+
 ![Alt Text](https://github.com/lexie21/movierecommender/blob/main/metrics.png)
